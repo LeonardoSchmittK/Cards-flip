@@ -1,2 +1,2 @@
 # Flip-card
-Cards flip animation with CSS3 and HTML5.
+Flip card animation with CSS3 and HTML5.
